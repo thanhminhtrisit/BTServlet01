@@ -59,7 +59,7 @@
 </head>
 <body>
     <h1>QUẢN LÝ SẢN PHẨM</h1>
-    <form action="product.jsp" method="post">
+    <form action="product" method="get">
         <div class="form-group">
             <label for="productName">Tên sản phẩm:</label>
             <input type="text" id="productName" name="productName" required>
